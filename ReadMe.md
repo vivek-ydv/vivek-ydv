@@ -9,10 +9,9 @@
 ## 🌐 Socials & Coding Profiles:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek-ydv)
 [![Twitter](https://img.shields.io/badge/Twitter-%230077B5.svg?logo=Twitter&logoColor=white)](https://twitter.com/vivekydvtwt)
-[![Gmail](https://img.shields.io/badge/Gmail-%23430098.svg?logo=Gmail&logoColor=white)](https://twitter.com/vivekydvtwt)
 [![Leetcode](https://img.shields.io/badge/Leetcode-%2320232a.svg?logo=Leetcode&logoColor=white)](https://leetcode.com/vivek-ydv/)
 [![Codechef](https://img.shields.io/badge/Codechef-%23323330.svg?logo=Codechef&logoColor=white)](https://www.codechef.com/users/vivekydv)
-
+<!-- [![Gmail](https://img.shields.io/badge/Gmail-%23430098.svg?logo=Gmail&logoColor=white)](**vivek.yadv27@gmail.com**)  -->
 <div align="left">
     <img style=" width: 375px;" src="https://leetcard.jacoblin.cool/vivek-ydv?theme=light&font=Noto%20Sans%20Math" />
 </div>
