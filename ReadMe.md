@@ -10,8 +10,9 @@
 # 📊 GitHub Stats:
 
 <div align="center" >
-  <img style ="width:340px; height:200px" src = "https://github-readme-streak-stats.herokuapp.com/?user=vivek-ydv&theme=highcontrast&hide_border=false&margin-10"/>
-  <img style ="width:320px; height:200px" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&username=vivek-ydv" alt="stats graph"/>
+  <img style ="width:376px;margin:10px" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&username=vivek-ydv" alt="stats graph"/>
+  <img style ="width:400px; margin:10px" src = "https://github-readme-streak-stats.herokuapp.com/?user=vivek-ydv&theme=highcontrast&hide_border=false&margin-10"/>
 </div>
+
 
 ###
