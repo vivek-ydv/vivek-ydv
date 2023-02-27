@@ -23,7 +23,7 @@
   <img style ="width:400px; margin:10px" src = "https://github-readme-streak-stats.herokuapp.com/?user=vivek-ydv&theme=light&hide_border=true&margin-10"/>
 </div>
 
-## My Productivity Stats📈:
+## 📈 Productivity Stats:
 
 <div align="left" >
  <img style="width:800px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivek-ydv&theme=default"  display=block width=100% height=auto  alt="1" >
