@@ -22,3 +22,9 @@
   <img style ="width:376px;margin:10px" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=light&locale=en&hide_border=true&username=vivek-ydv" alt="stats graph"/>
   <img style ="width:400px; margin:10px" src = "https://github-readme-streak-stats.herokuapp.com/?user=vivek-ydv&theme=light&hide_border=true&margin-10"/>
 </div>
+
+## My Productivity Stats📈:
+
+<div align="left" >
+ <img style="width:800px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivek-ydv&theme=default"  display=block width=100% height=auto  alt="1" >
+<div>
