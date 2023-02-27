@@ -1,9 +1,11 @@
-# 💫 About Me:
-🔭 I’m currently working on MERN stack based project.<br>👯 I’m looking to collaborate on MERN projects.<br>🌱 I’m currently learning react and backend technologies<br>💬 Ask me about data structures & algorithms.<br>
+<h1 align="center">Hi 👋, I'm Vivek Yadav</h1>
 
+# 💫 About Me:
+🔭 I’m currently working on MERN stack based project.<br>👯 I’m looking to collaborate on MERN stack projects.<br>🌱 I’m currently learning react and backend technologies.<br>💬 Ask me about data structures & algorithms.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek-ydv) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vivekydvtwt) 
+<br>
 
 # 📊 GitHub Stats:
 <div align="center" >
