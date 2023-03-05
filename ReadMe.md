@@ -28,5 +28,5 @@
 ## 📈 Productivity Stats:
 
 <div align="left" >
- <img style="width:795px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivek-ydv&theme=github"  display=block width=100% height=auto  alt="1" >
+ <img style="width:795px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivek-ydv&theme=github"  display=block width=100% height=auto  alt="profile-summary" >
 <div>
